@@ -19,7 +19,7 @@ Using the library
 ```python
 >>> import dreamdns
 >>> r = dreamdns.list()
->>> print r['data']
+>>> print r
 ```
 
 Running the tests
