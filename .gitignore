@@ -1,0 +1,9 @@
+*.py[cod]
+*.swp
+
+# Virtualenv
+bin/
+include/
+lib/
+local/
+
