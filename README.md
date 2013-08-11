@@ -9,7 +9,7 @@ Installing
 Install via pip and store your API key in the environment:
 
 ```shell
-$ pip install -e git+https://github.com/eallrich/dreamdns.git#egg=Package
+$ pip install -e git+https://github.com/eallrich/dreamdns.git#egg=dreamdns
 $ export DREAMHOST_API_KEY="PUT_API_KEY_HERE"
 ```
 
